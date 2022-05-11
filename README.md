@@ -1,5 +1,11 @@
-### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,mongodb,netlify,nodejs,react,express,git,github)](https://skillicons.dev)
+## Hi Developer 👋
+Im a Full-Stack Web developer who relies on a passion for learning, acute attention to detail and effective communication to deliver exceptional results! So if you know what i'm be able to do...Check all my repositories. 😉 😉
+## SOME HARD SKILLS
+### Frontend and backend
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,sass,bootstrap,mongodb,nodejs,express)](https://skillicons.dev)
+### Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=netlify,heroku,git,github)](https://skillicons.dev)
+
 
 <!--
 **miguelbanos95/miguelbanos95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
