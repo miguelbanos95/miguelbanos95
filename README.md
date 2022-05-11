@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,netlify,nodejs,react,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,mongodb,netlify,nodejs,react,express,git,github)](https://skillicons.dev)
 
 <!--
 **miguelbanos95/miguelbanos95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
