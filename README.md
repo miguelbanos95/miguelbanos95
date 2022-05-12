@@ -1,5 +1,5 @@
 ## Hi Developer 👋
-Im a Full-Stack Web developer who relies on a passion for learning, acute attention to detail and effective communication to deliver exceptional results! So if you know what i'm be able to do...Check all my repositories. 😉 😉
+Im a Full-Stack Web developer who relies on a passion for learning, acute attention to detail and effective communication to deliver exceptional results! So if you want to know what i'm be able to do...Check all my repositories. 😉 😉
 ## SOME HARD SKILLS
 ### Frontend and backend
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,sass,bootstrap,mongodb,nodejs,express)](https://skillicons.dev)
